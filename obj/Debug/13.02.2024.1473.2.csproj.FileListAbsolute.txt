@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\13.02.2024.1473.2\13.02.2024.1473.2\bin\Debug\13.02.2024.1473.2.exe.config
+C:\Users\User\source\repos\13.02.2024.1473.2\13.02.2024.1473.2\bin\Debug\13.02.2024.1473.2.exe
+C:\Users\User\source\repos\13.02.2024.1473.2\13.02.2024.1473.2\bin\Debug\13.02.2024.1473.2.pdb
+C:\Users\User\source\repos\13.02.2024.1473.2\13.02.2024.1473.2\obj\Debug\13.02.2024.1473.2.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\13.02.2024.1473.2\13.02.2024.1473.2\obj\Debug\13.02.2024.1473.2.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\13.02.2024.1473.2\13.02.2024.1473.2\obj\Debug\_13._02._2024._1473._2.Form1.resources
+C:\Users\User\source\repos\13.02.2024.1473.2\13.02.2024.1473.2\obj\Debug\_13._02._2024._1473._2.Properties.Resources.resources
+C:\Users\User\source\repos\13.02.2024.1473.2\13.02.2024.1473.2\obj\Debug\13.02.2024.1473.2.csproj.GenerateResource.cache
+C:\Users\User\source\repos\13.02.2024.1473.2\13.02.2024.1473.2\obj\Debug\13.02.2024.1473.2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\13.02.2024.1473.2\13.02.2024.1473.2\obj\Debug\13.02.2024.1473.2.exe
+C:\Users\User\source\repos\13.02.2024.1473.2\13.02.2024.1473.2\obj\Debug\13.02.2024.1473.2.pdb
